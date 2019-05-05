@@ -42,7 +42,6 @@ export default {
       } else {
         this.shoppingCart.push({name: elementName, price: elementPrice, amount: 1})
       }
-      this.shoppingCart.push();
     },
     removeItem(item) {
       const elementIndex = this.shoppingCart.findIndex(el => el.name == item.elementName )
