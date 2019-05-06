@@ -1,29 +1,8 @@
-# shopping_list
+# Shopping list
 
-## Project setup
-```
-npm install
-```
+A small project to test different ways to pass data between components using prop/emit, EventBus and Vuex.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+More information about it, here:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+https://letslearnabout.net/javascript/vue-javascript/passing-data-in-vue/
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
